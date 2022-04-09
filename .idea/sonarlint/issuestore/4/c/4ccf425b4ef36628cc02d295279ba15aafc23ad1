@@ -1,0 +1,23 @@
+
+B
+java:S1197",Move the array designators [][] to the type.(Òà¬¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÊøÚÓùÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "activePiece".(“Â“÷
+H
+java:S1172"2Remove this unused method parameter "endPosition".(Õ³÷
+T
+java:S1135"2Complete the task associated to this TODO comment.(•À«¨üÿÿÿÿ8‹áÕê€0
+F
+java:S1481"0Remove this unused "activePiece" local variable.(“Â“÷
+V
+java:S1854""@Remove this useless assignment to local variable "pieceMoveset".(‘¶¹
+[
+java:S1172!"ERemove these unused method parameters "startPosition", "endPosition".(†°Ø
+T
+java:S1135 "2Complete the task associated to this TODO comment.(ÔÌË™üÿÿÿÿ8Æ±×ê€0
+G
+java:S1481""1Remove this unused "pieceMoveset" local variable.(‘¶¹
+>	java:S108#")Either remove or fill this block of code.(Ãö÷
+*
+java:S1700"Rename field "board"(Òà¬¼
